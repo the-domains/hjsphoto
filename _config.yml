@@ -2,6 +2,7 @@ name: hjsphoto
 favicon: null
 layout_spectrum: 0.26188
 typography_spectrum: 0.16961
+title: Site Title
 cta:
   domain: null
   bucket: null
