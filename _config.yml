@@ -1,0 +1,28 @@
+name: hjsphoto
+favicon: null
+layout_spectrum: 0.013701149728149176
+typography_spectrum: 0.18420936819165945
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9653703202493489
+  lightness: 0.12121272319927812
+  saturation: 0.967034914996475
+  rhythmicContrast: 0.49545050761662424
+purpose: []
